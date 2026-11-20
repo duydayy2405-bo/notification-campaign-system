@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Campaign.Web/Campaign.Web.csproj" />
+  <Project Path="Notification.Shared/Notification.Shared.csproj" />
+  <Project Path="Notification.Worker/Notification.Worker.csproj" />
+</Solution>
